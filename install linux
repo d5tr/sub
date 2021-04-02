@@ -1,0 +1,10 @@
+# sub
+
+
+sudo git clone https://github.com/d5tr/sub.git
+
+
+cd sub
+
+
+python3 sub.py
